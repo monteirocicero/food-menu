@@ -1,4 +1,4 @@
-DROP TABLE  IF EXISTS public."chain";
+DROP TABLE IF EXISTS public."chain";
 
 CREATE TABLE public."chain" (
 	id serial NOT NULL,
